@@ -14,6 +14,10 @@ Om det skulle vara så att någon annan heter t.ex Joel Nymström
 
 Så skulle hans namn bli JoNym1 då kan man skilja på dem
 
+#ÅÄÖ
+
+Om personen har någon ÅÄÖ i sitt namn så kommer programet byta ut mot AAO
+
 
 
 
